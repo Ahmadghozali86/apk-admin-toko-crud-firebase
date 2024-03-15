@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170742018084",
+    "project_id": "argon-boulevard-403501",
+    "storage_bucket": "argon-boulevard-403501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170742018084:android:dfdc5cd0d8e20b4132a8b1",
+        "android_client_info": {
+          "package_name": "com.example.adminstore_kelompo_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBItIvrLBhpVVOd2wnGj10YWOzfQA96a7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

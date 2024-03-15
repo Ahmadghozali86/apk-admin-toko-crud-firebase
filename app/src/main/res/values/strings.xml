@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Admin Store</string>
+    <string-array name="jenis_makanan">
+        <item>Makanan</item>
+        <item>Minuman</item>
+    </string-array>
+</resources>

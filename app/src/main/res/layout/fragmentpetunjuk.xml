@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layar"
+    android:orientation="vertical"
+    android:padding="15dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/petunjukgmb"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/warna_utama"
+        android:text="Petunjuk Penggunaan Aplikasi"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_marginStart="10dp"
+        android:textStyle="italic"
+        android:layout_marginTop="10dp"
+        android:text="1. Isi Bok pcs disetiap adapter menu Makanan/minuman"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_marginStart="10dp"
+        android:textStyle="italic"
+        android:layout_marginTop="10dp"
+        android:text="2. Klik Button buat pesanan untuk menghitung  pembayaran"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_marginStart="10dp"
+        android:textStyle="italic"
+        android:layout_marginTop="10dp"
+        android:text="3. Isi saldo pembelian dengan uang yang diterima"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_marginStart="10dp"
+        android:textStyle="italic"
+        android:layout_marginTop="10dp"
+        android:id="@+id/akhir"
+        android:text="4. Klik button hitung kembalian untuk mengetahui uang kembali"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:layout_marginStart="10dp"
+            android:textStyle="italic"
+            android:layout_gravity="center"
+
+            android:text="Developper By Kelompok 7"
+            />
+</LinearLayout>
+
+
+
+</ScrollView>

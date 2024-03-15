@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="List Menu"
+        android:icon="@drawable/listmenumakanan"
+        android:id="@+id/menu_listmenu"
+        />
+    <item android:title="Petunjuk"
+        android:icon="@drawable/baseline_filter_frames_24"
+        android:id="@+id/menu_petunjuk"
+        />
+</menu>
